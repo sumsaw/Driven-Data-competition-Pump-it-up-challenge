@@ -99,7 +99,7 @@ I performed some EDA on this dataset . But below is the summary of my findings. 
 -Created new features and checked their importance using mutual info classif from sklearn library.
 
 # Competition model 
--I used a ensemble of XGboost and Light GBM  15 models each. Both the model was hyper-parameter tuned. I used five fold validation so in totoal 15*5*2=150 models .
+- I used a ensemble of XGboost and Light GBM  15 models each. Both the model was hyper-parameter tuned. I used five fold validation so in totoal 15*5*2=150 models .
 The difference between various models was its initiation using different random seed . After this I used hard voting to select the final class. 
 
 # Final Submission 
