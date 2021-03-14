@@ -10,7 +10,7 @@ Can you predict which water pumps are faulty?
 Using data from Taarifa and the Tanzanian Ministry of Water, can you predict which pumps are functional, which need some repairs, and which don't work at all? This is an intermediate-level practice competition. Predict one of these three classes based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
 
 # Running the file 
-- The above notebook can be run by using the copy and edit option in my Kaggle notebook 
+- The above notebook can be run by using the copy and edit option in my Kaggle notebook:https://www.kaggle.com/sumeetsawant/pump-it-up-driven-data-competition 
 
 # Description of the dataset 
 This dataset was a mix of catergorical and numerical variables. I did some EDA in my kaggle notebook and I am listing the main observation from it . Below are the columns and what they are
